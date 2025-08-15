@@ -187,6 +187,3 @@ git remote set-url origin https://github.com/Sbatchu1901/AI_copilot_jobs.git
 MIT © 2025 Srujan Batchu
 
 ---
-
-
-Do you want me to also make a **`.env.example` file** and **updated `requirements.txt`** so you can push them together? That way the repo is 100% ready for GitHub.
