@@ -1,0 +1,5 @@
+agno>=0.4.0
+openai>=1.40.0
+requests>=2.32.3
+python-dotenv>=1.0.1
+scikit-learn>=1.4.0
