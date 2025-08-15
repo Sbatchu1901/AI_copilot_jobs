@@ -1,7 +1,7 @@
 ---
 # AI Copilot Jobs (OpenAI + TF-IDF + Agentic AI)
 
-A command-line assistant that:
+A command-line assistant that
 1. Fetches remote job postings (Remotive + RemoteOK)
 2. Ranks them against your resume using **TF-IDF cosine similarity**
 3. Generates a **Tailored Resume Summary** and **Cover Letter** with OpenAI using an **Agentic AI architecture**
